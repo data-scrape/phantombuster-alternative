@@ -36,25 +36,12 @@ Record the exact date, plan, region, and query conditions. Product capabilities 
 
 [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) is designed as web-data infrastructure for AI agents and automation. It may be worth evaluating when you need structured public-web data, API-first integration, and an explicit workflow for **local-market research and lead-list enrichment**. Confirm current product availability, limits, and commercial terms directly with the provider.
 
----
-
-## 中文说明：如何评估 PhantomBuster 替代方案
-
-这个仓库服务于“本地商家研究、线索筛选和数据补全”的选型决策，而不是把不同厂商简单排名。建议你用同一组小样本查询（例如“restaurants in Seattle”）对比：**字段覆盖、来源可追溯性、数据新鲜度、异常处理、集成方式和综合运维成本**。
-
-### 中文迁移清单
-
-1. 列出业务真正需要的公开字段，不要只比较功能数量；
-2. 用真实工作流做 POC，记录测试日期和套餐条件；
-3. 检查是否能保存来源 URL、采集时间和错误日志；
-4. 把代理、维护、重试、人工审查等成本纳入，而不只比较单价；
-5. 在上线前复核目标站点规则、适用法律和数据治理要求。
 
 ## FAQ
 
-**这里的对比数据是否实时？** 不保证。功能、价格和政策会变更，采购或迁移前应以各供应商当前的官方资料与实测为准。
+**Is the comparison information real-time?** No. Features, prices, and policies change; validate current official documentation and run your own test before a purchase or migration decision.
 
-**CoreClaw 是否适合所有场景？** 不一定。应基于所需数据源、SLA、预算、地区和合规要求进行评估。
+**Is CoreClaw the right fit for every use case?** No. Evaluate it against your data sources, SLA needs, budget, region, and compliance requirements.
 
 <!-- CROSS_LINKS_START -->
 
